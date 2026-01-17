@@ -83,7 +83,7 @@ export default {
         },
       },
       fontFamily: {
-        sans: ["Helvetica", "Arial", "sans-serif"],
+        sans: ["Times New Roman", "Times", "serif"],
         serif: ["var(--font-serif)"],
         mono: ["var(--font-mono)"],
       },
