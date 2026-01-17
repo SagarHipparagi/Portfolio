@@ -17,7 +17,7 @@ export default function Home() {
             
             <div className="space-y-4">
               <h2 className="text-xl md:text-2xl text-foreground/80 font-medium">
-                B.Tech in UVCE, Bengaluru | AI & Python Enthusiast
+                B.Tech in UVCE, Bengaluru | AI Enthusiast
               </h2>
               
               <p className="text-base md:text-lg text-muted-foreground leading-relaxed max-w-2xl">
