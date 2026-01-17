@@ -21,9 +21,7 @@ export default function Home() {
               </h2>
               
               <p className="text-base md:text-lg text-muted-foreground leading-relaxed max-w-2xl">
-                I’m an undergraduate exploring the intersection of AI, software, and real-world systems. 
-                I enjoy building practical tools with Python and modern AI frameworks, and I’m especially 
-                interested in how intelligent systems scale from theory to production.
+                I’m an undergraduate working on AI-powered software with Python, exploring how ideas scale from theory to real-world systems.
               </p>
             </div>
           </section>
