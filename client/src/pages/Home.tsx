@@ -17,7 +17,7 @@ export default function Home() {
             
             <div className="space-y-4">
               <h2 className="text-xl md:text-2xl text-foreground/80 font-medium">
-                Undergraduate | AI & Python Enthusiast
+                B.Tech in UVCE, Bengaluru | AI & Python Enthusiast
               </h2>
               
               <p className="text-base md:text-lg text-muted-foreground leading-relaxed max-w-2xl">
@@ -25,12 +25,6 @@ export default function Home() {
                 I enjoy building practical tools with Python and modern AI frameworks, and I’m especially 
                 interested in how intelligent systems scale from theory to production.
               </p>
-            </div>
-
-            <div className="pt-2">
-              <span className="inline-block px-3 py-1 rounded-md bg-muted text-sm font-medium text-muted-foreground">
-                B.Tech in UVCE, Bengaluru
-              </span>
             </div>
           </section>
 
