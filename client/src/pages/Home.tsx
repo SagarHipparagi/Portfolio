@@ -11,10 +11,6 @@ export default function Home() {
           
           {/* Hero Section */}
           <section className="space-y-6">
-            <span className="text-muted-foreground text-lg md:text-xl font-medium tracking-tight">
-              heya, I’m
-            </span>
-            
             <h1 className="text-4xl md:text-6xl font-bold tracking-tight text-foreground">
               Sagar Hipparagi
             </h1>
